@@ -60,6 +60,7 @@ class Espressif32Platform(PlatformBase):
             "olimex-arm-usb-ocd-h",
             "olimex-arm-usb-ocd",
             "olimex-jtag-tiny",
+            "cjmcu_4232",
             "tumpa"
         ]
 
